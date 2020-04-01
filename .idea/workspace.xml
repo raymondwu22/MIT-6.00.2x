@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ced2c8e7-8eb6-42d1-a84c-befecbb3a6a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MITx 6.00.2x.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/ Lecture 1 - Optimization and the Knapsack Problem /Food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/ Lecture 1 - Optimization and the Knapsack Problem /greedy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/ Lecture 1 - Optimization and the Knapsack Problem /lecture1-segment1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/ Lecture 1 - Optimization and the Knapsack Problem /lecture1-segment2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Lecture 2 - Decision Trees/Exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Lecture 2 - Decision Trees/Food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Lecture 2 - Decision Trees/decisionTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Lecture 2 - Decision Trees/dynamicProgramming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Lecture 2 - Decision Trees/lecture2-segment1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Lecture 2 - Decision Trees/lecture2-segment2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Lecture 2 - Decision Trees/lecture2-segment3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Lecture 3 - Graph Problems/Exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Lecture 3 - Graph Problems/asset-v1_MITx+6.00.2x+1T2020+type@asset+block@lecture3-segment1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Lecture 3 - Graph Problems/graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Lecture 3 - Graph Problems/lecture3-segment2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 1/Lecture 3 - Graph Problems/lecture3-segment3.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZompQtbsGdwA33gl0iV8NNv1BT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week 1/Lecture 3 - Graph Problems" />
+      <recent name="$PROJECT_DIR$/Week 1/Lecture 2 - Decision Trees" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Exercise2">
+    <configuration name="Exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.2x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 1/Lecture 2 - Decision Trees" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 1/Lecture 2 - Decision Trees/Exercise1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.2x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 1/Lecture 3 - Graph Problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 1/Lecture 3 - Graph Problems/Exercise2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dynamicProgramming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.2x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 1/Lecture 2 - Decision Trees" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 1/Lecture 2 - Decision Trees/dynamicProgramming.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.2x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 1/Lecture 3 - Graph Problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 1/Lecture 3 - Graph Problems/graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lecture3Segment2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.2x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/asset-v1_MITx+6.00.2x+1T2020+type@asset+block@lecture3-segment2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/asset-v1_MITx+6.00.2x+1T2020+type@asset+block@lecture3-segment2/lecture3Segment2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Exercise2" />
+        <item itemvalue="Python.graph" />
+        <item itemvalue="Python.lecture3Segment2" />
+        <item itemvalue="Python.dynamicProgramming" />
+        <item itemvalue="Python.Exercise1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ced2c8e7-8eb6-42d1-a84c-befecbb3a6a8" name="Default Changelist" comment="" />
+      <created>1585514003369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585514003369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="875" height="283" key="GridCell.Tab.0.bottom" timestamp="1585701350929">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="875" height="283" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1585701350929" />
+    <state width="1259" height="411" key="GridCell.Tab.0.bottom/1792.23.2560.1417/0.23.1792.1031@1792.23.2560.1417" timestamp="1585678305469" />
+    <state width="875" height="283" key="GridCell.Tab.0.center" timestamp="1585701350928">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="875" height="283" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1585701350928" />
+    <state width="1259" height="411" key="GridCell.Tab.0.center/1792.23.2560.1417/0.23.1792.1031@1792.23.2560.1417" timestamp="1585678305468" />
+    <state width="875" height="283" key="GridCell.Tab.0.left" timestamp="1585701350928">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="875" height="283" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1585701350928" />
+    <state width="1259" height="411" key="GridCell.Tab.0.left/1792.23.2560.1417/0.23.1792.1031@1792.23.2560.1417" timestamp="1585678305468" />
+    <state width="875" height="283" key="GridCell.Tab.0.right" timestamp="1585701350928">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="875" height="283" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1585701350928" />
+    <state width="1259" height="411" key="GridCell.Tab.0.right/1792.23.2560.1417/0.23.1792.1031@1792.23.2560.1417" timestamp="1585678305469" />
+    <state x="1004" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1585675877523">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="1004" y="371" key="com.intellij.ide.util.TipDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1585661592806" />
+    <state x="1004" y="371" key="com.intellij.ide.util.TipDialog/1792.23.2560.1417/0.23.1792.1031@0.23.1792.1031" timestamp="1585675877523" />
+    <state x="1009" y="251" key="search.everywhere.popup" timestamp="1585514136633">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="1009" y="251" key="search.everywhere.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1585514136633" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/asset-v1_MITx+6.00.2x+1T2020+type@asset+block@lecture3-segment2/lecture3Segment2.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
