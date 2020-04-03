@@ -81,4 +81,4 @@ def buildCityGraph(graphType):
     return g
 
 # print(buildCityGraph(Graph))
-print(buildCityGraph(Digraph))
+# print(buildCityGraph(Digraph))
