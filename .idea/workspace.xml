@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ced2c8e7-8eb6-42d1-a84c-befecbb3a6a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week 2/Lecture 4 - Plotting/lec13_graphs_visualize_new.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 2/Lecture 4 - Plotting/retirement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 7 - Inferential Statistics/lecture7-segment1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 7 - Inferential Statistics/lecture7-segment1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 7 - Inferential Statistics/lecture7-segment2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 7 - Inferential Statistics/lecture7-segment2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 7 - Inferential Statistics/lecture7-segment3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 7 - Inferential Statistics/lecture7-segment3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 7 - Inferential Statistics/stdDevOfLengths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 8 - Monte Carlo Simulations/asset-v1_MITx+6.00.2x+1T2020+type@asset+block@lecture8-segment2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 8 - Monte Carlo Simulations/flipcoin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 8 - Monte Carlo Simulations/lecture8-segment1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 8 - Monte Carlo Simulations/lecture8-segment1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 8 - Monte Carlo Simulations/lecture8-segment3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 8 - Monte Carlo Simulations/lecture8-segment3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 8 - Monte Carlo Simulations/noReplacementSimulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 9 - Sampling and Standard Error/lecture9-segment1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 9 - Sampling and Standard Error/lecture9-segment1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 9 - Sampling and Standard Error/lecture9-segment2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 9 - Sampling and Standard Error/lecture9-segment2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 9 - Sampling and Standard Error/lecture9-segment3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 9 - Sampling and Standard Error/lecture9-segment3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 9 - Sampling and Standard Error/lecture9-segment4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 9 - Sampling and Standard Error/lecture9-segment4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/Lecture 9 - Sampling and Standard Error/temperatures.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 3/ProblemSet3/ps3b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 1/pset1/ps1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 1/pset1/ps1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/ Lecture 4 - Plotting/lec13_graphs_visualize_new.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/ Lecture 4 - Plotting/retirement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Lecture 5 - Stochastic Proccesses/pset2/ps2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/pset2/ps2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week 2/Lecture 5 - Stochastic Proccesses/pset2/ps2_visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/pset2/ps2_visualize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/pset2/ps2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/pset2/ps2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +42,7 @@
       <recent name="$PROJECT_DIR$/Week 1/Lecture 2 - Decision Trees" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ps1">
+  <component name="RunManager" selected="Python.ps2 (1)">
     <configuration name="ps1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MITx 6.00.2x" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +56,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/pset1/ps1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ps2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MITx 6.00.2x" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/pset2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/pset2/ps2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,34 +148,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stochastic_process" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MITx 6.00.2x" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2/Lecture 5 - Stochastic Proccesses" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Lecture 5 - Stochastic Proccesses/stochastic_process.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ps2 (1)" />
         <item itemvalue="Python.ps1" />
         <item itemvalue="Python.ps3b" />
         <item itemvalue="Python.ps2" />
         <item itemvalue="Python.ps2_visualize" />
-        <item itemvalue="Python.stochastic_process" />
       </list>
     </recent_temporary>
   </component>
@@ -205,29 +175,29 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="875" height="294" key="GridCell.Tab.0.bottom" timestamp="1587840012546">
+    <state width="1771" height="294" key="GridCell.Tab.0.bottom" timestamp="1587851769720">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state width="875" height="282" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586394726204" />
-    <state width="875" height="294" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1587840012546" />
+    <state width="1771" height="294" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1587851769720" />
     <state width="1259" height="294" key="GridCell.Tab.0.bottom/1792.23.2560.1417/0.23.1792.1031@1792.23.2560.1417" timestamp="1587822246367" />
-    <state width="875" height="294" key="GridCell.Tab.0.center" timestamp="1587840012546">
+    <state width="1771" height="294" key="GridCell.Tab.0.center" timestamp="1587851769719">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state width="875" height="282" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586394726203" />
-    <state width="875" height="294" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1587840012546" />
+    <state width="1771" height="294" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1587851769719" />
     <state width="1259" height="294" key="GridCell.Tab.0.center/1792.23.2560.1417/0.23.1792.1031@1792.23.2560.1417" timestamp="1587822246366" />
-    <state width="875" height="294" key="GridCell.Tab.0.left" timestamp="1587840012545">
+    <state width="1771" height="294" key="GridCell.Tab.0.left" timestamp="1587851769718">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state width="875" height="282" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586394726203" />
-    <state width="875" height="294" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1587840012545" />
+    <state width="1771" height="294" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1587851769718" />
     <state width="1259" height="294" key="GridCell.Tab.0.left/1792.23.2560.1417/0.23.1792.1031@1792.23.2560.1417" timestamp="1587822246366" />
-    <state width="875" height="294" key="GridCell.Tab.0.right" timestamp="1587840012546">
+    <state width="1771" height="294" key="GridCell.Tab.0.right" timestamp="1587851769719">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state width="875" height="282" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586394726204" />
-    <state width="875" height="294" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1587840012546" />
+    <state width="1771" height="294" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1587851769719" />
     <state width="1259" height="294" key="GridCell.Tab.0.right/1792.23.2560.1417/0.23.1792.1031@1792.23.2560.1417" timestamp="1587822246367" />
     <state x="1004" y="393" key="com.intellij.ide.util.TipDialog" timestamp="1586622967379">
       <screen x="0" y="23" width="1792" height="1031" />
@@ -247,6 +217,11 @@
           <url>file://$USER_HOME$/Downloads/asset-v1_MITx+6.00.2x+1T2020+type@asset+block@lecture3-segment2/lecture3Segment2.py</url>
           <line>28</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/pset2/ps2.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
