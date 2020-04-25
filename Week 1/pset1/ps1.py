@@ -30,10 +30,8 @@ def load_cows(filename):
         cow_dict[line_data[0]] = int(line_data[1])
     return cow_dict
 
-import operator
-
 # Problem 1
-def greedy_cow_transport(cows,limit=10):
+def greedy_cow_transport(cows, limit=10):
     """
     Uses a greedy heuristic to determine an allocation of cows that attempts to
     minimize the number of spaceship trips needed to transport all the cows. The
@@ -49,34 +47,34 @@ def greedy_cow_transport(cows,limit=10):
     Parameters:
     cows - a dictionary of name (string), weight (int) pairs
     limit - weight limit of the spaceship (an int)
-    
+
     Returns:
     A list of lists, with each inner list containing the names of cows
     transported on a particular trip and the overall list containing all the
     trips
     """
     # TODO: Your code here
-
-    # copy of dict to track items already added
     cowsCopy = cows.copy()
-    # create an array of tuples
-    sortedCows = sorted(cows.items(), key=operator.itemgetter(1), reverse=True)
-    result = []
 
+    # creates tuple of cow and weight to sort on weight
+    sortedCows = sorted(cows.items(), key=lambda item: item[1], reverse=True)
+    result = []
     while sum(cowsCopy.values()) > 0:
-        temp = []
-        totalValue = 0
-        # iterate through the tuple (cow, value)
-        for cow, value in sortedCows:
-            if cowsCopy[cow] != 0 and value + totalValue <= limit:
-                totalValue += value
-                cowsCopy[cow] = 0
-                temp.append(cow)
-        result.append(temp)
+        trip = []
+        weight = 0
+        for cow in sortedCows:
+            if cowsCopy[cow[0]] != 0 and weight + cow[1] <= limit:
+                trip.append(cow[0])
+                cowsCopy[cow[0]] = 0
+                weight += cow[1]
+        result.append(trip)
+
     return result
 
+# greedy_cow_transport({"Jesse": 6, "Maybel": 3, "Callie": 2, "Maggie": 5})
+
 # Problem 2
-def brute_force_cow_transport(cows,limit=10):
+def brute_force_cow_transport(cows, limit=10):
     """
     Finds the allocation of cows that minimizes the number of spaceship trips
     via brute force.  The brute force algorithm should follow the following method:
@@ -84,42 +82,47 @@ def brute_force_cow_transport(cows,limit=10):
     1. Enumerate all possible ways that the cows can be divided into separate trips
     2. Select the allocation that minimizes the number of trips without making any trip
         that does not obey the weight limitation
-            
+
     Does not mutate the given dictionary of cows.
 
     Parameters:
     cows - a dictionary of name (string), weight (int) pairs
     limit - weight limit of the spaceship (an int)
-    
+
     Returns:
     A list of lists, with each inner list containing the names of cows
     transported on a particular trip and the overall list containing all the
     trips
     """
     # TODO: Your code here
-    power_list = sorted(get_partitions(cows), key=len)
-    list = []
+    result = []
+    shortest_trip = len(cows)  # worst case
+    powerset = get_partitions(cows)
 
-    for partition in power_list:
-        ship = []
-        for trip in partition:
-            weights = []
+    for subset in powerset:
+        weight = 0
+        for trip in subset:
+            trip_weight = 0
             for cow in trip:
-                weights.append(cows[cow])
-            ship.append(sum(weights))
-        # add items to our list if ship <= limit
-        if all(d <= limit for d in ship):
-            list.append(partition)
+                trip_weight += cows[cow]
+            # find the heaviest trip in subset
+            if trip_weight > weight:
+                weight = trip_weight
 
-    # remove duplicates
-    pruned_list = []
-    for k in list:
-        if k not in pruned_list:
-            pruned_list.append(k)
-    min_length = min(map(len, pruned_list))
-    for item in pruned_list:
-        if len(item) == min_length:
-            return item
+        if weight <= limit:
+            # number of trips beats our previous
+            # replace the shortest_list and result
+            if len(subset) < shortest_trip:
+                result = []
+                shortest_trip = len(subset)
+                result.append(subset)
+            elif len(subset) == shortest_trip:
+                result.append(subset)
+
+    return result
+
+# print(brute_force_cow_transport({"Jesse": 6, "Maybel": 3, "Callie": 2, "Maggie": 5}, 10))
+# print(brute_force_cow_transport({'Buttercup': 72, 'Betsy': 65, 'Daisy': 50}, 75))
 
 # Problem 3
 def compare_cow_transport_algorithms():
