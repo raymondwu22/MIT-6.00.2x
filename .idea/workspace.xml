@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ced2c8e7-8eb6-42d1-a84c-befecbb3a6a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week 4/lecture 10 - experimental data pt 1/lectureCode_L17_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 4/lecture 11 - experimental data pt 2/lecture11-segment1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 4/lecture 11 - experimental data pt 2/lecture11-segment1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 4/lecture 11 - experimental data pt 2/lecture11-segment2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 4/lecture 11 - experimental data pt 2/lecture11-segment2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 4/lecture 11 - experimental data pt 2/lecture11-segment3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 4/lecture 11 - experimental data pt 2/lecture11-segment3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 4/lecture 11 - experimental data pt 2/mysteryData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 4/lecture 11 - experimental data pt 2/springData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 4/pset4/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 4/pset4/ps4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ced2c8e7-8eb6-42d1-a84c-befecbb3a6a8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,29 +178,29 @@
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state x="584" y="281" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1589073635019" />
-    <state width="875" height="294" key="GridCell.Tab.0.bottom" timestamp="1589074753230">
+    <state width="875" height="294" key="GridCell.Tab.0.bottom" timestamp="1589075974618">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state width="875" height="282" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586394726204" />
-    <state width="875" height="294" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1589074753230" />
+    <state width="875" height="294" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1589075974618" />
     <state width="1259" height="294" key="GridCell.Tab.0.bottom/1792.23.2560.1417/0.23.1792.1031@1792.23.2560.1417" timestamp="1587822246367" />
-    <state width="875" height="294" key="GridCell.Tab.0.center" timestamp="1589074753229">
+    <state width="875" height="294" key="GridCell.Tab.0.center" timestamp="1589075974617">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state width="875" height="282" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586394726203" />
-    <state width="875" height="294" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1589074753229" />
+    <state width="875" height="294" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1589075974617" />
     <state width="1259" height="294" key="GridCell.Tab.0.center/1792.23.2560.1417/0.23.1792.1031@1792.23.2560.1417" timestamp="1587822246366" />
-    <state width="875" height="294" key="GridCell.Tab.0.left" timestamp="1589074753229">
+    <state width="875" height="294" key="GridCell.Tab.0.left" timestamp="1589075974593">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state width="875" height="282" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586394726203" />
-    <state width="875" height="294" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1589074753229" />
+    <state width="875" height="294" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1589075974593" />
     <state width="1259" height="294" key="GridCell.Tab.0.left/1792.23.2560.1417/0.23.1792.1031@1792.23.2560.1417" timestamp="1587822246366" />
-    <state width="875" height="294" key="GridCell.Tab.0.right" timestamp="1589074753230">
+    <state width="875" height="294" key="GridCell.Tab.0.right" timestamp="1589075974617">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state width="875" height="282" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586394726204" />
-    <state width="875" height="294" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1589074753230" />
+    <state width="875" height="294" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1589075974617" />
     <state width="1259" height="294" key="GridCell.Tab.0.right/1792.23.2560.1417/0.23.1792.1031@1792.23.2560.1417" timestamp="1587822246367" />
     <state width="875" height="367" key="GridCell.Tab.1.bottom" timestamp="1589073612507">
       <screen x="0" y="23" width="1792" height="1031" />
